@@ -6,12 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
-
-# Email and twitter are optional:
-email:
+title: A Most Interesting World according to Andres.
+description: I'm trying to decide what's more fun: studying the art in science, or the science in art? This is here to help me figure this out. 
+email: andressmt59@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
